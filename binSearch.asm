@@ -1,8 +1,6 @@
 
 # TP1 Organizacao e Arquitetura de Computadores I
 # Clara Davila e Vicente Vivian
-#
-# OBS: Professor, desculpe qualquer erro nos comentarios. As vezes nos atrapalhamos com as instrucoes.
 
 .text
 .globl main
